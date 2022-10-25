@@ -6,7 +6,7 @@ namespace Dejana_Ristic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Dejana Ristic");
+            Console.WriteLine("broj indeksa: 1234567890");
         }
     }
 }
